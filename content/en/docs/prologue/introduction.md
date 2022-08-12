@@ -13,9 +13,9 @@ weight: 100
 toc: true
 ---
 
-## Get started
+## 시작하기
 
-There are two main ways to get started with Doks:
+안녕하세요. There are two main ways to get started with Doks:
 
 ### Tutorial
 
